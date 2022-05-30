@@ -1,0 +1,21 @@
+{
+    "name": "Color Picker",
+    "description": "A color picker extension by Jassahib Singh",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "icons": {
+        "16": "/images/chromatic.png",
+        "32": "/images/chromatic.png",
+        "48": "/images/chromatic.png"
+    }
+}
