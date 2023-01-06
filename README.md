@@ -1,2 +1,2 @@
 # color-picker
-Made a color picker extension using html, css and javascript.
+Made a color picker chrome extension using html, css and javascript.
